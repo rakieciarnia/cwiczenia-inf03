@@ -1,0 +1,9 @@
+1. Podaj fragment kodu, który zmienia kolor elementu "nagłowek" na niebieski (blue). Jedna linia, przypisanie.
+2. Jak nazywa się zdarzenie (event) wywoływane w momencie kliknięcia na przycisk myszką?
+3. Podaj fragment kodu, który przypisze do zmiennej "x" element o id "elementX". Jedna linia, przypisanie.
+4. Uzupełnij kod dodający nowy element do strony. Zapisz tylko to co należy wstawić w miejsce _________:
+
+let element = document.createElement("h2");
+element.innerText = "Witaj szkoło!";
+
+document.body._________(element);

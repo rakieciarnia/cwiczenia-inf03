@@ -1,0 +1,14 @@
+1. Jakich znaczników użyć by napisać w HTMLu listę uporządkowaną (rozpoczęcie listy i element listy)?
+2. Co wyświetli się w konsoli po wykonaniu poniższego kodu:
+        <div>
+            <span>Test testowy</span>
+            <button onclick="test(this)">Przycisk test</button>
+        </div>
+
+        <script>
+        function test(btn) {
+            let element = btn.parentElement;
+            console.log(element);
+        }
+        </script>
+3. Podaj fragment kodu javascript, który zmieni widocznosć elementu btn na niewidoczny.

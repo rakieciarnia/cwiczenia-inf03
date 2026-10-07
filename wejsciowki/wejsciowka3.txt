@@ -1,0 +1,9 @@
+1. Podaj słowo kluczowe, które sprawi, że pole input w formularzu będzie wymagagane.
+2. Uzupełnij poniższy kod, który definiuje nasłuchiwacz zmian w polach input. Zapisz tylko to co należy wstawić w miejsce _____.
+
+const form = document.getElementById('contactForm');
+form._____('input', () => {
+    console.log(“Formularz został sprawdzony!”);
+});
+
+3. Wypisz wszystkie typy znacznika <input> jakie tylko mozesz sobie przypomnieć.
