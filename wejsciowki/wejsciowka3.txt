@@ -1,4 +1,5 @@
-1. Podaj słowo kluczowe, które sprawi, że pole input w formularzu będzie wymagagane.
+1. Podaj słowo kluczowe, które sprawi, że pole input w formularzu będzie wymagane.
+
 2. Uzupełnij poniższy kod, który definiuje nasłuchiwacz zmian w polach input. Zapisz tylko to co należy wstawić w miejsce _____.
 
 const form = document.getElementById('contactForm');
