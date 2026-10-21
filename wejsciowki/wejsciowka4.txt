@@ -1,0 +1,5 @@
+1. Podaj klauzulę SQL aby ograniczyć wynik zapytania do określonej liczby wierszy (np. do 3 najdroższych)?
+
+2. Podaj funkcję która pozwala na zliczenie liczby rekordów w tabeli?
+
+3. Podaj słowo kluczowe pozwalające pogrupować wyniki zapytań według wybranej kolumny (np. według marki)?
