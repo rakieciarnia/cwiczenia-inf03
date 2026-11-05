@@ -1,0 +1,13 @@
+Uzupełnij poniższy kod PHP:
+
+$polaczenie = mysqli_connect(____1____, "root", "", "samochody");
+if (!$polaczenie) {
+    die("Błąd połączenia z bazą danych: " . mysqli_connect_error());
+}
+
+$sql = "____2____ marka
+         FROM pojazdy";
+
+$wynik = ____3____($polaczenie, $sql);
+
+mysqli_close(____4____);
