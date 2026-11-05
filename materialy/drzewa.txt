@@ -1,0 +1,22 @@
+const polskieDrzewa = [
+  {
+    nazwa_drzewa: "Dąb szypułkowy",
+    krotki_opis: "Prawdziwy król polskich lasów. To potężne, długowieczne drzewo z żołędziami, które od wieków jest symbolem siły."
+  },
+  {
+    nazwa_drzewa: "Brzoza brodawkowata",
+    krotki_opis: "Moje ulubione, niezwykle urocze drzewo o charakterystycznej białej korze i delikatnych, wiotkich gałązkach."
+  },
+  {
+    nazwa_drzewa: "Sosna zwyczajna",
+    krotki_opis: "Najpopularniejsze drzewo iglaste w naszym kraju. Pięknie pachnie żywicą i potrafi rosnąć na najbardziej piaszczystych glebach."
+  },
+  {
+    nazwa_drzewa: "Świerk pospolity",
+    krotki_opis: "Wysokie drzewo iglaste o idealnie stożkowatym kształcie. Zimą wygląda magicznie, zwłaszcza pod warstwą śniegu."
+  },
+  {
+    nazwa_drzewa: "Lipa drobnolistna",
+    krotki_opis: "Cudowne, miododajne drzewo z liśćmi w kształcie małych serduszek. Latem podczas kwitnienia pachnie po prostu obłędnie!"
+  }
+];
